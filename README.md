@@ -75,6 +75,7 @@ styles
 
 
 ## Reference
+- [SCSS Architecture](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4) - scss 아키텍처 참조
 - [BEM](https://getbem.com/) - html5 클래스네임 컨벤션
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) 구글 HTML/CSS 스타일 가이드 
 - [Stop using margin, use Spacer component instead!](https://javascript.plainenglish.io/stop-using-margin-use-spacer-component-instead-953d9b2dbacc) - Spacer 컴포넌트 사용
